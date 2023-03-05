@@ -9,9 +9,9 @@
 
 ## Web application
 
-[Game-cloud](https://game-cloud-feixghc9w-manucherkm.vercel.app/)
+[Game-cloud](https://gamecloud.vercel.app/)
 
 ## Preview
 
-[![Layout](https://github.com/ManucherKM/game-cloud/blob/main/preview/preview.png?raw=true)](https://game-cloud-feixghc9w-manucherkm.vercel.app/)
-[![Layout](https://github.com/ManucherKM/game-cloud/blob/main/preview/home.png?raw=true)](https://game-cloud-feixghc9w-manucherkm.vercel.app/)
+[![Layout](https://github.com/ManucherKM/game-cloud/blob/main/preview/preview.png?raw=true)](https://gamecloud.vercel.app/)
+[![Layout](https://github.com/ManucherKM/game-cloud/blob/main/preview/home.png?raw=true)](https://gamecloud.vercel.app/)
